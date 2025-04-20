@@ -3,10 +3,10 @@
 ARCHI_EXECUTABLE="C:\Program Files\Archi\Archi.exe"
 
 # Путь к модели
-MODEL_FILE="model/SS-Upstream.archimate"
+MODEL_FILE="C:\Users\dmiyu\Documents\Archi\model\SS-Upstream.archimate"
 
 # Папка для HTML-отчета
-REPORT_DIR="html-reports/SS-Upstream"
+REPORT_DIR="C:\Users\dmiyu\Documents\Archi\html-reports\SS-Upstream"
 
 # Генерация отчета
 $ARCHI_EXECUTABLE -application com.archimatetool.commandline.app \
