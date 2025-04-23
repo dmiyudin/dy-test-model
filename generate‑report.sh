@@ -3,10 +3,10 @@
 ARCHI_EXECUTABLE="/mnt/c/Program Files/Archi/Archi.exe"
 
 # Путь к модели
-MODEL_FILE="C:\Users\dmiyu\Documents\Archi\model-repository\dy-archi-ss\.git\temp.archimate"
+MODEL_FILE="C:\Users\dmiyu\Documents\Archi\model-repository\dy-test-model\.git\temp.archimate"
 
 # Папка для HTML-отчета
-REPORT_DIR="C:\Users\dmiyu\Documents\Archi\html-reports\Upstream"
+REPORT_DIR="C:\Users\dmiyu\Documents\Archi\model-repository\dy-test-model\docs"
 
 # Генерация отчета
 "$ARCHI_EXECUTABLE" -application com.archimatetool.commandline.app \
